@@ -1,0 +1,84 @@
+.navbar-brand{
+    position: sticky;
+}
+
+.head{
+    height: auto;
+    width:100%;
+    font-size:2rem;
+    text-align: end;
+  }
+  .boottoom{
+    height: auto;
+    width:100%;
+    font-size: 0.9rem;
+  }
+  .clor{
+    height: auto;
+    width:100%;
+    top:30px;
+    background-color:#484848;
+    text-align: center;
+    -webkit-text-fill-color: white;
+  }
+  .hello1{
+  padding-top: 20%;
+  }
+  .a1{
+    height: auto;
+    width:100%;
+    font-size:4em;
+    text-align:start;
+  }
+  .a2{
+    height: auto;
+    width:100%;
+    font-size:4em;
+    text-align:start;
+    
+  }
+  .a3{
+    font-size:4em;
+    text-align:start;
+  }
+  .b1{
+    height: auto;
+    width:100%;
+    padding:1%;
+    font-size:2em;
+    -webkit-text-fill-color: white;
+    text-align: center;
+ background-color: #362652;
+  }
+  .b2{
+    height: auto;
+    width:100%;
+    font-size: 1em;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-block-start: 10px;
+    padding-block-end: 10px;
+    -webkit-text-fill-color:black;
+    text-align: center;
+    background-color: white;
+
+  }
+  .button1{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size:2em;
+    background-color: #484848;
+    -webkit-text-fill-color: white;
+
+  }
+  .button1:hover{
+    background-color: black;
+  }
+  .hovering:hover{
+    background-color: black;
+  }
+  .a{
+    font-size: 10px;
+    -webkit-text-fill-color: white;
+  }
+  
